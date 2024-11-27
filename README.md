@@ -1,3 +1,19 @@
+# Full-Stack E-Commerce App
+
+## Setup Instructions
+
+### Frontend (Next.js)
+1. Clone the repository:
+   git clone <repo-link>
+   cd frontend
+2. Install dependencies:
+    npm install
+
+3. Run the app:
+    npm run dev
+
+
+
 # Backend (Node.js + Express)
 Clone the repository:
 
