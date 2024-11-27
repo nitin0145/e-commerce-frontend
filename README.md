@@ -4,7 +4,7 @@
 
 ### Frontend (Next.js)
 1. Clone the repository:
-   git clone <repo-link>
+   git clone https://github.com/nitin0145/e-commerce-frontend.git
    cd frontend
 2. Install dependencies:
     npm install
@@ -15,25 +15,15 @@
 
 
 # Backend (Node.js + Express)
-Clone the repository:
+1. Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/nitin0145/e-commerce-frontend.git
+git clone https://github.com/nitin0145/e-commerce-backend.git
 cd backend
-Install dependencies:
 
-bash
-Copy code
-npm install
-Create a .env file with the following variables:
+2. Install dependencies:
+    npm install
+    MONGODB_URI=<Your MongoDB URI>
 
-javascript
-Copy code
-MONGODB_URI=<Your MongoDB URI>
-Run the app:
-
-bash
-Copy code
-node index.js
+3. Run the app:
+    node index.js
 
